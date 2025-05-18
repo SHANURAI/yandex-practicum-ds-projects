@@ -32,4 +32,4 @@
 
 ## Используемые библиотеки
 
-*pandas*, *numpy*, *Matplotlib*, *Seaborn*
+*pandas*, *Matplotlib*
