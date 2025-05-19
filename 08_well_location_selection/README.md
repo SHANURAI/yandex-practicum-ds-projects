@@ -13,4 +13,4 @@
 
 ## Используемые библиотеки
 
-`pandas`, `numpy`, `matplotlib`, `scikit-learn`
+`pandas`, `numpy`, `matplotlib`, `scikit-learn`, `scipy`, `phik`
